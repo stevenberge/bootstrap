@@ -1,0 +1,10 @@
+# bootstrap
+ubuntu profiles
+
+#加密
+cd ${project_path}
+./enc.sh ${your_path}/sync/bootstrap/ ${your_password}
+
+#解密
+cd ${project_path}
+./dec.sh ${your_password}
