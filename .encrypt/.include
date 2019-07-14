@@ -1,3 +1,5 @@
 resource
 sync_myself.sh
 git
+archive
+docker/images
